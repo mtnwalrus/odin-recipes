@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe links are listed on this page.  It is an execise in creating a website and using Github as well.  I am learning that is is much easier to use the VS studio to edit files as I go along.# odin-recipes
